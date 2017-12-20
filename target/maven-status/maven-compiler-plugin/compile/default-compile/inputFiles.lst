@@ -1,0 +1,10 @@
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\configuration\SecurityConfiguration.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\repository\RoleRepository.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\repository\UserRepository.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\DemoApplication.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\service\UserServiceImpl.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\controller\LoginController.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\configuration\WebMvcConfig.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\model\User.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\model\Role.java
+D:\OtherProject\SpringSecurityLoginDemo\src\main\java\com\example\service\UserService.java
